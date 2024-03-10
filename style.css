@@ -6,3 +6,17 @@ code{
 li{
     margin: 10px 0;
 }
+h1{
+    background-color: blueviolet;
+    margin-top: 0;
+    text-align: center;
+    padding: 8px;
+    color: aliceblue;
+}
+body{
+    padding: 0;
+    margin: 0;
+}
+ul{
+    margin-right: 30px;
+}
