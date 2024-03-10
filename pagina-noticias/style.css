@@ -1,0 +1,42 @@
+.news {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.news img {
+  height: 200px;
+  width: 250px;
+  border-radius: 10px;
+}
+
+h1 {
+  background-color: blueviolet;
+  margin-top: 0;
+  text-align: center;
+  padding: 8px;
+  color: aliceblue;
+  border-radius: 10px;
+}
+
+.news p {
+  width: 330px;
+  float: right;
+  margin-top: 0;
+  height: 190px;
+}
+
+.news p strong {
+  font-size: large;
+}
+.news p a {
+  line-height: 3;
+  color: blueviolet;
+}
+
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+hr{
+    max-width: 700px;
+    margin: 20px auto;
+}
